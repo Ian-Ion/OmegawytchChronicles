@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<article class="chronicle-post">
+    <header class="chronicle-header">
+        <h1>{{ page.title }}</h1>
+        <div class="chronicle-meta" style="font-style: italic; color: #666; margin-bottom: 20px;">
+            <strong>Original Release:</strong> {{ page.original_date }} <br>
+            <strong>Archival Note:</strong> Reposted by Moridin on RsInn (June 2004)
+        </div>
+    </header>
+
+    <div class="chronicle-content">
+        {{ content }}
+    </div>
+
+    <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
+
+    <!-- Automatic Next / Previous Navigation -->
+    <nav class="chapter-navigation" style="display: flex; justify-content: space-between; margin-top: 20px; font-weight: bold;">
+        <div class="nav-previous">
+            {% if page.previous %}
+            <a href="{{ page.previous.url | relative_url }}" style="text-decoration: none;">&laquo; Previous: {{ page.previous.title }}</a>
+            {% endif %}
+        </div>
+
+        <div class="nav-next">
+            {% if page.next %}
+            <a href="{{ page.next.url | relative_url }}" style="text-decoration: none;">Next: {{ page.next.title }} &raquo;</a>
+            {% endif %}
+        </div>
+    </nav>
+</article>
