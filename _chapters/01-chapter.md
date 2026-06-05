@@ -4,6 +4,7 @@ title: "Chapter 1: 18 Combat Wearing Rune"
 original_date: "November 2002"
 ---
 _
+> _Blame it on Do0r Blocker. I saw him in Edgeville bank, and was astonished: Full adam at combat level 13?_
 >
 > _Blame it on my friend Sswiss04. When I mentioned Do0r Blocker to him, Sswiss told me he knows a player who wore rune at combat level 18._
 > 
