@@ -1,0 +1,10 @@
+title: The Omegawytch Chronicles
+description: Archiving the 2004 RuneScape blog logs by 56Warrior.
+theme: jekyll-theme-cayman
+
+permalink: /:path/
+defaults:
+  - scope:
+      path: "chapters"
+    values:
+      layout: page
