@@ -4,6 +4,8 @@ Welcome to the preserved archival of 56Warrior's legendary 2002 RuneScape blog, 
 
 > **Archival Note:** These logs have been salvaged from the Wayback Machine, stripped of dead forum BBCode, and formatted into Markdown for preservation. If you would like to see the originals, they can be found [here](https://web.archive.org/web/20040904172350/http://www.rsinn.com/forum/showthread.php?t=2375).
 
+These stories hold a special nostalgic place for me personally; I have fond memories of reading them as a young player and have always been fascinated by the depth of imagination and storytelling that went into them. In my opinion, Omegawytch is a very early example of what would these days be considered a "snowflake" account, and these chronicles seeded my interest in the wonderful world of unique account builds.
+
 ## Original Introduction by Moridin
 
 > _Among the thousands of visitors that have passed through the Runescape forums of Scapeboard, some of these people are remembered for their posts which hold an amazing quality of intelligence and foresight. Chief among those still remembered is 56Warrior, a man whose posts showed the true depth of mind with an amazing ability to grasp the reader with his simple story of a new character – Omegawytch. He takes us from her birth, through to her defence training which allowed her to wield the rare Dragon Helmet and quest fulfilment at a time where such things were left for Legends. Omegawytch defied her time and completed the most difficult of abilities at the lowest of levels._
