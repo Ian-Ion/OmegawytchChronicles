@@ -123,6 +123,4 @@ As we banked, I did a little arithmetic. "Only 10.3 million to go," I said to my
 
 Omegawytch, for once in her short but eventful life, was speechless.
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, became a member and thief, progressed toward goals, and wore a Dragon Medium helm at 39 combat, bought her own Dragon Medium, and teamed with Scared2death to kill the Tree Spirit and complete the Lost City quest, reached level 78 thieving and 40 combat, completed the Hero quest with Scared2death, killed the level 121 demon Chronozon to complete the Family Crest quest, reached 80 thieving at 42 Combat, determined the effect of Gauntlets of Chaos on Fire Bolt damage, reached 81 thieving and reached 82 Thieving and killed the level 175 demon to complete the Grand Tree quest, and completed the Underground Pass quest to obtain the Staff of Iban.
-
 56warrior

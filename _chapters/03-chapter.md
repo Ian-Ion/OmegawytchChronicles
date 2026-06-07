@@ -7,8 +7,6 @@ commentary: |
   Three images in this chapter sadly seem to have been lost; they are not present in the RsInn archive.
 ---
 
-(Previous instalments described how Omegawytch wore rune at 18 combat and killed the dragon wearing iron chain at 24 combat, earning the right to wear rune plate at 27 combat.)
-
 Not long after killing the dragon, I took Omegawytch into the wilderness, wearing her new rune plate, at her new combat level of 27. After roaming as high as level 15 without finding a suitable (skulled) victim, she drifted down to level 1 Varrock, and amused herself by taking pot shots at a few skulled players. Not surprisingly, they quickly fled south to Misthalin and safety.
 
 Suddenly, Omegawytch was attacked by another level 27, who inexplicably did not run...

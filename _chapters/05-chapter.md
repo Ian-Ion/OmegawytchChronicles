@@ -7,8 +7,6 @@ commentary: |
   All images in this chapter sadly seem to have been lost; they are not present in the RsInn archive.
 ---
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, and became a member and thief; the last instalment was a progress report.
-
 It's over! The long ordeal-- Chicken after Chicken, Cow after Cow, and, mostly, Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man after Man-- is over!
 
 

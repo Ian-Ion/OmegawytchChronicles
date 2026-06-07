@@ -5,8 +5,6 @@ originaldate: "16 Feb 2003 09:09"
 originaltitle: "The Omegawytch Chronicles: \"Omega how u get so rich?\""
 ---
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, became a member and thief, progressed toward goals, and wore a Dragon Medium helm at 39 combat.
-
 Omegawytch has her own Dragon Medium helmet. After spending a day fruitlessly trying to buy one with a combination of GP and other items, I spent much of Valentine's day (US time) selling the items; more about this below. That evening, Angelfire00 and I agreed on a price (which is None Of Your Financial Business) and made the trade. I was so excited I forgot to make a screen shot until Angelfire00 was depositing the GP.
 
 ![Dragon Med]({{ "/assets/images/chapter-06/0601.jpg" | relative_url }})

@@ -7,8 +7,6 @@ commentary: |
   Two images in this chapter sadly seem to have been lost; they are not present in the RsInn archive.
 ---
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, and became a member and thief.
-
 On the surface, my goals for Omegawytch seem simple enough:
 - Raise defense to 60;
 - Become wealthy enough, through thievery and other means, to purchase

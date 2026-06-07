@@ -39,6 +39,4 @@ I succeeded on my first attempt to pick the Hero's pocket, receiving a Blood run
 
 And people still wonder why I don't think kindly of people who train on Heroes and Paladins.
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, became a member and thief, progressed toward goals, and wore a Dragon Medium helm at 39 combat, bought her own Dragon Medium, and teamed with Scared2death to kill the Tree Spirit and complete the Lost City quest, reached level 78 thieving and 40 combat, completed the Hero quest with Scared2death, and killed the level 121 demon Chronozon to complete the Family Crest quest.
-
 56warrior

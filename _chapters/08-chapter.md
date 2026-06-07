@@ -7,8 +7,6 @@ commentary: |
   Two images in this chapter sadly seem to have been lost; they are not present in the RsInn archive.
 ---
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, became a member and thief, progressed toward goals, and wore a Dragon Medium helm at 39 combat, bought her own Dragon Medium, and teamed with Scared2death to kill the Tree Spirit and complete the Lost City quest.
-
 By gaining a Hitpoints level, Omegawytch raised combat level to 40, ending my hopes of entering the Heros Guild at 39.
 
 The seeds for the disaster were sown when, after Omegawytch reached 75 Thieving, I trotted her out to the Tree Gnome Stronghold to try her hand at picking Gnome Local pockets. It was wonderful!

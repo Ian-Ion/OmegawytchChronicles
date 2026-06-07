@@ -187,6 +187,4 @@ And, yes, we really did find the runes.
 
 "Don't call me that!" Then we chanted, in unison: "We both know who wears the Runite pants in this outfit," and burst into laughter.
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, became a member and thief, progressed toward goals, and wore a Dragon Medium helm at 39 combat, bought her own Dragon Medium, and teamed with Scared2death to kill the Tree Spirit and complete the Lost City quest, reached level 78 thieving and 40 combat, completed the Hero quest with Scared2death, killed the level 121 demon Chronozon to complete the Family Crest quest, reached 80 thieving at 42 Combat, determined the effect of Gauntlets of Chaos on Fire Bolt damage, reached 81 thieving and reached 82 Thieving and killed the level 175 demon to complete the Grand Tree quest.
-
 56warrior

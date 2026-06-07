@@ -43,6 +43,4 @@ The end of this story had to be scripted by Saradomin, or maybe Zamorak-- I coul
 
 ![Inspiration]({{ "/assets/images/chapter-10/1003.jpg" | relative_url }})
 
-Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, became a member and thief, progressed toward goals, and wore a Dragon Medium helm at 39 combat, bought her own Dragon Medium, and teamed with Scared2death to kill the Tree Spirit and complete the Lost City quest, reached level 78 thieving and 40 combat, and completed the Hero quest with Scared2death.
-
 56warrior
