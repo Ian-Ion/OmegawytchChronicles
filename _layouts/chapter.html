@@ -36,6 +36,20 @@ layout: default
         margin: 0 0.1em;
         vertical-align: -0.15em;
     }
+
+    .chapter-commentary {
+        margin: 2rem 0;
+        padding: 1.25rem 1.5rem;
+        border-top: 3px solid #ddd;
+        background: #fafafa;
+        color: #333;
+        font-style: normal;
+        border-radius: 6px;
+    }
+
+    .chapter-commentary h2 {
+        margin-top: 0;
+    }
 </style>
 
 <article class="chronicle-post">
@@ -51,6 +65,13 @@ layout: default
     <blockquote class="chronicle-content">
         {{ content }}
     </blockquote>
+
+    {% if page.commentary %}
+    <section class="chapter-commentary">
+        <h2>Supplementary Commentary</h2>
+        {{ page.commentary | markdownify }}
+    </section>
+    {% endif %}
 
     <hr style="margin-top: 40px; border: 0; border-top: 1px solid #eee;">
 
