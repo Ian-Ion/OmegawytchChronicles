@@ -1,8 +1,8 @@
 ---
 layout: chapter
 title: "Chapter 3: Pking, P2P and Thieving"
-originaldate: "12 Jan 2003 02:05"
-originaltitle: "Level 24 in Iron Chain Slays Elvarg-- TWICE (pics)"
+originaldate: "22 Jan 2003 15:04"
+originaltitle: "The Omegawytch Chronicles: PKing no, thieving YES!"
 commentary: |
   Three images in this chapter sadly seem to have been lost; they are not present in the RsInn archive.
 ---
