@@ -3,8 +3,6 @@ layout: chapter
 title: "Chapter 9: Hero Quest Completed"
 originaldate: "21 Feb 2003 04:10"
 originaltitle: "Scared2death a Hero at 31, Omegawytch at 41 (pics)"
-commentary: |
-  Two images in this chapter sadly seem to have been lost; they are not present in the RsInn archive.
 ---
 
 Brain beats brawn. Again.
