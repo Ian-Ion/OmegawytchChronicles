@@ -2,7 +2,7 @@
 layout: chapter
 title: "Chapter 6: Dragon Medium Buying"
 originaldate: "16 Feb 2003 09:09"
-originaltitle: "The Omegawytch Chronicles: "Omega how u get so rich?""
+originaltitle: "The Omegawytch Chronicles: \"Omega how u get so rich?\""
 ---
 
 Previous instalments describe how Omegawytch wore rune at 18 combat, killed the dragon at 24 combat, became a member and thief, progressed toward goals, and wore a Dragon Medium helm at 39 combat.
