@@ -6,7 +6,7 @@ originaltitle: "18 combat wearing rune: \"That's just sick\" (pics)"
 commentary: |
   Cav's combat calculator looked like this:
   
-  ![Cav Calculator](/OmegawytchChronicles/assets/images/chapter-01/cav-calc.jpg)
+  ![Cav Calculator](/OmegawytchChronicles/assets/images/chapter-01/cav-calc.png)
 ---
 
 Blame it on Do0r Blocker. I saw him in Edgeville bank, and was astonished: Full adam at combat level 13?s
