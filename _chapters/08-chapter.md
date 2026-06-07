@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "Chapter 8: 78 Theif, 40 Combat"
+title: "Chapter 8: 78 Thieving, 40 Combat"
 originaldate: "19 Feb 2003 20:11"
 originaltitle: "The Omegawytch Chronicles: Omega hits 40 :( (pics)"
 commentary: |
