@@ -9,7 +9,10 @@ In yet another example of brain being superior to brawn, Scared2death (29 combat
 
 Both had previously killed the Dragon on Crandor by taking cover behind broken pillars and casting spells. The Entrana Dungeon doesn't provide any cover, so the plan was that we'd block for each other. Sswiss04 generously came along as hatchetman-- er, hatchetperson-- and additional blocker.
 
-![Tree Spirit]({{ "/assets/images/chapter-07/0701.jpg" | relative_url }})
+<figure class="chapter-image">
+  <img src="{{ '/assets/images/chapter-07/0701.jpg' | relative_url }}" alt="Tree Spirit">
+  <figcaption>(Left to right: Omegawytch, Scared2death, Sswiss04, Tree Spirit)</figcaption>
+</figure>
 
 There was some confusion, and we ended up killing the Tree Spirit three times. But none of us died, and in only a few minutes Omegawytch and Scared2death each had a Dramen staff. As we entered the hut south of Lumbridge together, the world suddenly started to shimmer.
 
