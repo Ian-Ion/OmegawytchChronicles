@@ -48,7 +48,7 @@ But the dragon didn't have any lobsters.
 
 
 
-Noooooooooooo! The five minute warning!
+**Noooooooooooo!** The five minute warning!
 
 Should I move, and risk being attacked, or cast another spell, and risk being logged out?
 
@@ -56,7 +56,7 @@ I cast another Fire Bolt, hit 0, and got logged out.
 
 I logged back in, cast another Fire bolt, and saw "Your opponent is retreating..." as the dragon disappeared.
 
-Noooooooooooo! I had killed the dragon, but hadn't gotten credit for it!
+**Noooooooooooo!** I had killed the dragon, but hadn't gotten credit for it!
 
 I hung around for a minute, just to collect the meager reward-- dragon bones I couldn't bury even if I wanted to.
 
